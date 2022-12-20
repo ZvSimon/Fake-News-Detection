@@ -37,6 +37,7 @@ Ne lancez pas la partie entraînement, il faut énormement de temps pour trouver
 ## Technologie
 
 **Framework:** Python
+
 **Librairies:** Scikit-Learn, Langdetect, NumPy, Pandas, Matplotlib
 
 
