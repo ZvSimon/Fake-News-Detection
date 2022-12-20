@@ -1,6 +1,10 @@
 # Fake-News-Detection
 
-Il s'agit de créer un detécteur de Fake-News. 
+Il s'agit de créer un detécteur de Fake-News.
+Dans un premier temps : prendre un jeu de test, on l'entraine avec 4 modèles différents :
+Logistic Regression,Random Forest, LGBM et MLP.
+Puis dans une second temps, nous testerons nos nouveaux models ( qui sont instanciés , fichier pkl) sur le nouveau jeu, le jeu d'évaluation. 
+
 
 ## Installation
 
