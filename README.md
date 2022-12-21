@@ -38,7 +38,7 @@ Install my-project with npm
 Ne lancez pas la partie entraînement, il faut énormement de temps pour trouver les bons hyper-paramètres. 
 
 
-## Technologie
+## Technologies
 
 **Framework:** Python
 
